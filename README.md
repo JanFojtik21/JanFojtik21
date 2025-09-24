@@ -41,8 +41,8 @@ Currently working in AppSec @ Veeam and documenting my OSCP journey.
 ---
 
 ## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=durotan21&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durotan21&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JanFojtik21&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanFojtik21&layout=compact&theme=tokyonight)  
 
 ---
 
