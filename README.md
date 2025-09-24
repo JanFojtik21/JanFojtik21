@@ -4,7 +4,7 @@ Penetration Tester | Application Security Engineer | Security Researcher
 ---
 
 ## 👋 About Me  
-I live in the Czech Republic, love sports (cycling, hockey, Ironman prep), hacking, and tech.  
+I live in the Czech Republic, love sports (cycling, hockey), hacking, and tech.  
 I specialize in finding & fixing vulnerabilities — from source code to production.  
 Currently working in AppSec @ Veeam and documenting my OSCP journey.  
 
@@ -13,7 +13,7 @@ Currently working in AppSec @ Veeam and documenting my OSCP journey.
 ## 💻 What I Do  
 🔍 Penetration Testing (Web, API, Infra, Cloud)  
 🧠 Security Research & Automation (CVE mapping, CI/CD scanning)  
-🔧 Code-assisted Testing & Tool Development (Python, Bash, PowerShell)  
+🔧 Code Testing & Tool Development (Python, Bash, PowerShell)  
 🧪 Red Team Support & Exploit Development (stack/heap)  
 
 ---
@@ -47,8 +47,8 @@ Currently working in AppSec @ Veeam and documenting my OSCP journey.
 ---
 
 ## 📫 Contact  
-✉️ `your.email@example.com`  
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+✉️ `janfojtik@icloud.com`  
+💼 [LinkedIn](https://www.linkedin.com/in/jan-fojtik-1bbb951a8/)  
 🐦 Twitter: `@durotan21`  
 
 
